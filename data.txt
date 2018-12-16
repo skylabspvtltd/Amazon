@@ -1,2 +1,1 @@
 Hi this is devops class
-It is start class is linux 
